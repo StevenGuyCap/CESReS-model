@@ -42,7 +42,5 @@ The "gui" directory provides useful information to launch a GUI connecting to th
 Please refer to the readme available in this directory for more information.
 
 [^1]: https://arxiv.org/abs/1805.11683
-
 [^2]: https://comby.dev/
-
 [^3]: https://github.com/PyCQA/redbaron
