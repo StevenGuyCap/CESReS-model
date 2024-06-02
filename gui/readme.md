@@ -25,3 +25,6 @@ Clicking inside the code panel removes the highlights.
 Inside the "Model" menu you can disconnect from the model or directly close the app.
 To close the Python server, you will need to send a SIGINT to the program.
 Doing CTRL+C will perform it.
+
+The code source will be available under the repository address:
+https://github.com/StevenGuyCap/CodeLabellingGUI
