@@ -41,7 +41,7 @@ The mutation labelling program we developed for this thesis can be found inside 
 Other utility programs are also available there.
 Read the readme of this directory for more information.
 
-## 3. The Graphical User Interface
+## 4. The Graphical User Interface
 
 The "gui" directory provides useful information to launch a GUI connecting to the Python program.
 Please refer to the readme available in this directory for more information.
